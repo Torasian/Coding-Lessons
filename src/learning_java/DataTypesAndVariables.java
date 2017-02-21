@@ -1,10 +1,12 @@
 package learning_java;
 
-public class Hello {
+public class DataTypesAndVariables {
 
 	public static void main(String[] args) {
 		
-		System.out.println("hello world");
+		//To print something out we use System.out.println(print something here);
+		//If you are typing in a string, make sure to put it in double quotes
+		
 	
 		//Exercise 1: Print out your name
 		
@@ -15,17 +17,17 @@ public class Hello {
 		// Here we assign number a value
 		number = 1;
 		
-		//We can declare and assign a varible like this:
+		//We can also print out variables, it will just print out the value assigned to the variable.
+		//Exercise 2: Print out the variable "number"
+		
+		//We can declare and assign a variable like this:
 		String hello = "Hello";
 		
 		//so far we have introduced 2 data types, an integer and a String.
 		//There are many more different data types: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 		
-		//Exercise 2: Create a variable of type String and assign it to your names
-		
-		
-		
-
+		//Exercise 3: Create a variable of type String and assign it to your names. After this, print it out.
+	
 	}
 
 }
