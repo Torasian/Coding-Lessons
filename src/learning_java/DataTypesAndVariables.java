@@ -20,14 +20,27 @@ public class DataTypesAndVariables {
 		//We can also print out variables, it will just print out the value assigned to the variable.
 		//Exercise 2: Print out the variable "number"
 		
+		//Exercise 3: Create a variable of type String and assign it to your names. After this, print it out.
+		
 		//We can declare and assign a variable like this:
 		String hello = "Hello";
 		
-		//so far we have introduced 2 data types, an integer and a String.
+		//When printing things, we can concatenate items so that they print together. 
+		// We do this by using the '+' operator:
+		System.out.println("Hello" + "World");
+		
+		//Exercise 4: Print out the combination of the variables number and hello. The result should be 1 + Hello
+	
+	
+		
+		//A boolean data type can either be true or false. 
+		//These are especially useful for logic and conditional statements, which we will introduce later on.
+		Boolean isSleeping = true;
+		
+		
+		//so far we have introduced 3 data types, an integer, a String and boolean values.
 		//There are many more different data types: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 		
-		//Exercise 3: Create a variable of type String and assign it to your names. After this, print it out.
-	
 	}
 
 }
