@@ -21,6 +21,20 @@ public class Operators {
 		
 		//Exercise 4 - find the modulus of num1 over num2
 		
+		//Comparison operators
+		// Less than - <
+		// Less than or equal to - <=
+		// Greater than - >
+		// Greater than or equal to - >=
+		// Equal to - ==
+		// Not equal to - !=
+		
+		//Exercise 5 - Using any of the comparison operators, compare any two numbers and put your comparision 
+		//into a print statement
+		
+		
+		
+		
 
 	}
 

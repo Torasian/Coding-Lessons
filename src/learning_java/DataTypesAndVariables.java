@@ -27,7 +27,7 @@ public class DataTypesAndVariables {
 		
 		//When printing things, we can concatenate items so that they print together. 
 		// We do this by using the '+' operator:
-		System.out.println("Hello" + "World");
+		System.out.println("Hello" + " World");
 		
 		//Exercise 4: Print out the combination of the variables number and hello. The result should be 1 + Hello
 	
